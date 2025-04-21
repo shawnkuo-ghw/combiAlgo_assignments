@@ -1,0 +1,22 @@
+This exercise is done by HongWei Guo and Ruibo Jing.
+
+Given a list, we are required to generate all its BST trees. It is easy to insert all the keys while still maintaining the BST structure.
+
+But we have a situation that some graph of the BST may come from different ordered list. It is very hard to check only by looking at the ordered list of the BST whether it should by prunned or not. We have did a lot of work on that but we failed, so this part we don't demonstrate it here.
+(Graph 1)(In the graph, the list is not the same, but the graph is not the same. This is not what we want.)
+
+Therefore, at every try, we use the global_printed_list to store every things we have printed, so we can ensure no duplicated graph. That is, we prun every duplicated graph. 
+We use the backtracking algorithm to achieve these requirements.
+
+1) At first step, we insert the CurrKey. If the length is OK and the List does not generate a graph which is already in the global_printed_bst, then we print the list so that we can do checks. After that, we need to meet the requirement of never adding the new list with the same graph. To do so, every time we add a list, we add all its equivalence lists to global_print_bst as well. Then, the next time we deal with a new graph, if it is in the global_print_bst, it means it is equivalent to some previous BST tree in graph, so we prun it. Then, add the count by 1.(CODE: get_equiv_permutations)
+
+2)Construct the choice list for the Currkey. removing everything in the VisitedList and in the Currkey.(Code of this part)
+We initialize the choice list by the original list, removing everything in the Currkey and remove from the Visitedl=List. (Backtracking step)
+
+3)Call the algorithm recursively and assign every key in choice list to CurrKey.
+From the choice list, we obtain the nextkey,and use it to get started. Record the currkey to the VisitedList, add the length by 1 so that in next iteration we can check its length.
+
+In these way, we are able to generate all the BST trees without duplication starting from one specific node.
+All we need to do next is to try all the possiblity of initialization of its nodes.(Code : GENERATE_BST_PRUNNING)
+
+(In the end, put some pictures of the running results.)

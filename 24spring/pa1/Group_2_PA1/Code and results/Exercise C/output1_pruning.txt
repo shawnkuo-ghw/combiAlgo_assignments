@@ -1,0 +1,113 @@
+Input List = [-3, -2, 0, 2]
+Binary Tree:
+             2
+         0
+     -2
+ -3
+
+
+Input List = [-3, -2, 2, 0]
+Binary Tree:
+         2
+             0
+     -2
+ -3
+
+
+Input List = [-3, 0, -2, 2]
+Binary Tree:
+         2
+     0
+         -2
+ -3
+
+
+Input List = [-3, 2, -2, 0]
+Binary Tree:
+     2
+             0
+         -2
+ -3
+
+
+Input List = [-3, 2, 0, -2]
+Binary Tree:
+     2
+         0
+             -2
+ -3
+
+
+Input List = [-2, -3, 0, 2]
+Binary Tree:
+         2
+     0
+ -2
+     -3
+
+
+Input List = [-2, -3, 2, 0]
+Binary Tree:
+     2
+         0
+ -2
+     -3
+
+
+Input List = [0, -3, -2, 2]
+Binary Tree:
+     2
+ 0
+         -2
+     -3
+
+
+Input List = [0, -2, -3, 2]
+Binary Tree:
+     2
+ 0
+     -2
+         -3
+
+
+Input List = [2, -3, -2, 0]
+Binary Tree:
+ 2
+             0
+         -2
+     -3
+
+
+Input List = [2, -3, 0, -2]
+Binary Tree:
+ 2
+         0
+             -2
+     -3
+
+
+Input List = [2, -2, -3, 0]
+Binary Tree:
+ 2
+         0
+     -2
+         -3
+
+
+Input List = [2, 0, -3, -2]
+Binary Tree:
+ 2
+     0
+             -2
+         -3
+
+
+Input List = [2, 0, -2, -3]
+Binary Tree:
+ 2
+     0
+         -2
+             -3
+
+
+Total Number: 14

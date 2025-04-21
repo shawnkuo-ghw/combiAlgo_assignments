@@ -1,0 +1,7201 @@
+Input List = [1, 2, 5, 7, 8, 9]
+Binary Tree:
+                     9
+                 8
+             7
+         5
+     2
+ 1
+
+
+Input List = [1, 2, 5, 7, 9, 8]
+Binary Tree:
+                 9
+                     8
+             7
+         5
+     2
+ 1
+
+
+Input List = [1, 2, 5, 8, 7, 9]
+Binary Tree:
+                 9
+             8
+                 7
+         5
+     2
+ 1
+
+
+Input List = [1, 2, 5, 8, 9, 7]
+Binary Tree:
+                 9
+             8
+                 7
+         5
+     2
+ 1
+
+
+Input List = [1, 2, 5, 9, 7, 8]
+Binary Tree:
+             9
+                     8
+                 7
+         5
+     2
+ 1
+
+
+Input List = [1, 2, 5, 9, 8, 7]
+Binary Tree:
+             9
+                 8
+                     7
+         5
+     2
+ 1
+
+
+Input List = [1, 2, 7, 5, 8, 9]
+Binary Tree:
+                 9
+             8
+         7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 7, 5, 9, 8]
+Binary Tree:
+             9
+                 8
+         7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 7, 8, 5, 9]
+Binary Tree:
+                 9
+             8
+         7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 7, 8, 9, 5]
+Binary Tree:
+                 9
+             8
+         7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 7, 9, 5, 8]
+Binary Tree:
+             9
+                 8
+         7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 7, 9, 8, 5]
+Binary Tree:
+             9
+                 8
+         7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 8, 5, 7, 9]
+Binary Tree:
+             9
+         8
+                 7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 8, 5, 9, 7]
+Binary Tree:
+             9
+         8
+                 7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 8, 7, 5, 9]
+Binary Tree:
+             9
+         8
+             7
+                 5
+     2
+ 1
+
+
+Input List = [1, 2, 8, 7, 9, 5]
+Binary Tree:
+             9
+         8
+             7
+                 5
+     2
+ 1
+
+
+Input List = [1, 2, 8, 9, 5, 7]
+Binary Tree:
+             9
+         8
+                 7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 8, 9, 7, 5]
+Binary Tree:
+             9
+         8
+             7
+                 5
+     2
+ 1
+
+
+Input List = [1, 2, 9, 5, 7, 8]
+Binary Tree:
+         9
+                     8
+                 7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 9, 5, 8, 7]
+Binary Tree:
+         9
+                 8
+                     7
+             5
+     2
+ 1
+
+
+Input List = [1, 2, 9, 7, 5, 8]
+Binary Tree:
+         9
+                 8
+             7
+                 5
+     2
+ 1
+
+
+Input List = [1, 2, 9, 7, 8, 5]
+Binary Tree:
+         9
+                 8
+             7
+                 5
+     2
+ 1
+
+
+Input List = [1, 2, 9, 8, 5, 7]
+Binary Tree:
+         9
+             8
+                     7
+                 5
+     2
+ 1
+
+
+Input List = [1, 2, 9, 8, 7, 5]
+Binary Tree:
+         9
+             8
+                 7
+                     5
+     2
+ 1
+
+
+Input List = [1, 5, 2, 7, 8, 9]
+Binary Tree:
+                 9
+             8
+         7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 2, 7, 9, 8]
+Binary Tree:
+             9
+                 8
+         7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 2, 8, 7, 9]
+Binary Tree:
+             9
+         8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 2, 8, 9, 7]
+Binary Tree:
+             9
+         8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 2, 9, 7, 8]
+Binary Tree:
+         9
+                 8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 2, 9, 8, 7]
+Binary Tree:
+         9
+             8
+                 7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 7, 2, 8, 9]
+Binary Tree:
+                 9
+             8
+         7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 7, 2, 9, 8]
+Binary Tree:
+             9
+                 8
+         7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 7, 8, 2, 9]
+Binary Tree:
+                 9
+             8
+         7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 7, 8, 9, 2]
+Binary Tree:
+                 9
+             8
+         7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 7, 9, 2, 8]
+Binary Tree:
+             9
+                 8
+         7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 7, 9, 8, 2]
+Binary Tree:
+             9
+                 8
+         7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 8, 2, 7, 9]
+Binary Tree:
+             9
+         8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 8, 2, 9, 7]
+Binary Tree:
+             9
+         8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 8, 7, 2, 9]
+Binary Tree:
+             9
+         8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 8, 7, 9, 2]
+Binary Tree:
+             9
+         8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 8, 9, 2, 7]
+Binary Tree:
+             9
+         8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 8, 9, 7, 2]
+Binary Tree:
+             9
+         8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 9, 2, 7, 8]
+Binary Tree:
+         9
+                 8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 9, 2, 8, 7]
+Binary Tree:
+         9
+             8
+                 7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 9, 7, 2, 8]
+Binary Tree:
+         9
+                 8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 9, 7, 8, 2]
+Binary Tree:
+         9
+                 8
+             7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 9, 8, 2, 7]
+Binary Tree:
+         9
+             8
+                 7
+     5
+         2
+ 1
+
+
+Input List = [1, 5, 9, 8, 7, 2]
+Binary Tree:
+         9
+             8
+                 7
+     5
+         2
+ 1
+
+
+Input List = [1, 7, 2, 5, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 2, 5, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 2, 8, 5, 9]
+Binary Tree:
+             9
+         8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 2, 8, 9, 5]
+Binary Tree:
+             9
+         8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 2, 9, 5, 8]
+Binary Tree:
+         9
+             8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 2, 9, 8, 5]
+Binary Tree:
+         9
+             8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 5, 2, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 5, 2, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 5, 8, 2, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 5, 8, 9, 2]
+Binary Tree:
+             9
+         8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 5, 9, 2, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 5, 9, 8, 2]
+Binary Tree:
+         9
+             8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 8, 2, 5, 9]
+Binary Tree:
+             9
+         8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 8, 2, 9, 5]
+Binary Tree:
+             9
+         8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 8, 5, 2, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 8, 5, 9, 2]
+Binary Tree:
+             9
+         8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 8, 9, 2, 5]
+Binary Tree:
+             9
+         8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 8, 9, 5, 2]
+Binary Tree:
+             9
+         8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 9, 2, 5, 8]
+Binary Tree:
+         9
+             8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 9, 2, 8, 5]
+Binary Tree:
+         9
+             8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 9, 5, 2, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 9, 5, 8, 2]
+Binary Tree:
+         9
+             8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 7, 9, 8, 2, 5]
+Binary Tree:
+         9
+             8
+     7
+             5
+         2
+ 1
+
+
+Input List = [1, 7, 9, 8, 5, 2]
+Binary Tree:
+         9
+             8
+     7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 2, 5, 7, 9]
+Binary Tree:
+         9
+     8
+                 7
+             5
+         2
+ 1
+
+
+Input List = [1, 8, 2, 5, 9, 7]
+Binary Tree:
+         9
+     8
+                 7
+             5
+         2
+ 1
+
+
+Input List = [1, 8, 2, 7, 5, 9]
+Binary Tree:
+         9
+     8
+             7
+                 5
+         2
+ 1
+
+
+Input List = [1, 8, 2, 7, 9, 5]
+Binary Tree:
+         9
+     8
+             7
+                 5
+         2
+ 1
+
+
+Input List = [1, 8, 2, 9, 5, 7]
+Binary Tree:
+         9
+     8
+                 7
+             5
+         2
+ 1
+
+
+Input List = [1, 8, 2, 9, 7, 5]
+Binary Tree:
+         9
+     8
+             7
+                 5
+         2
+ 1
+
+
+Input List = [1, 8, 5, 2, 7, 9]
+Binary Tree:
+         9
+     8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 5, 2, 9, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 5, 7, 2, 9]
+Binary Tree:
+         9
+     8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 5, 7, 9, 2]
+Binary Tree:
+         9
+     8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 5, 9, 2, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 5, 9, 7, 2]
+Binary Tree:
+         9
+     8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 7, 2, 5, 9]
+Binary Tree:
+         9
+     8
+         7
+                 5
+             2
+ 1
+
+
+Input List = [1, 8, 7, 2, 9, 5]
+Binary Tree:
+         9
+     8
+         7
+                 5
+             2
+ 1
+
+
+Input List = [1, 8, 7, 5, 2, 9]
+Binary Tree:
+         9
+     8
+         7
+             5
+                 2
+ 1
+
+
+Input List = [1, 8, 7, 5, 9, 2]
+Binary Tree:
+         9
+     8
+         7
+             5
+                 2
+ 1
+
+
+Input List = [1, 8, 7, 9, 2, 5]
+Binary Tree:
+         9
+     8
+         7
+                 5
+             2
+ 1
+
+
+Input List = [1, 8, 7, 9, 5, 2]
+Binary Tree:
+         9
+     8
+         7
+             5
+                 2
+ 1
+
+
+Input List = [1, 8, 9, 2, 5, 7]
+Binary Tree:
+         9
+     8
+                 7
+             5
+         2
+ 1
+
+
+Input List = [1, 8, 9, 2, 7, 5]
+Binary Tree:
+         9
+     8
+             7
+                 5
+         2
+ 1
+
+
+Input List = [1, 8, 9, 5, 2, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 9, 5, 7, 2]
+Binary Tree:
+         9
+     8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 8, 9, 7, 2, 5]
+Binary Tree:
+         9
+     8
+         7
+                 5
+             2
+ 1
+
+
+Input List = [1, 8, 9, 7, 5, 2]
+Binary Tree:
+         9
+     8
+         7
+             5
+                 2
+ 1
+
+
+Input List = [1, 9, 2, 5, 7, 8]
+Binary Tree:
+     9
+                     8
+                 7
+             5
+         2
+ 1
+
+
+Input List = [1, 9, 2, 5, 8, 7]
+Binary Tree:
+     9
+                 8
+                     7
+             5
+         2
+ 1
+
+
+Input List = [1, 9, 2, 7, 5, 8]
+Binary Tree:
+     9
+                 8
+             7
+                 5
+         2
+ 1
+
+
+Input List = [1, 9, 2, 7, 8, 5]
+Binary Tree:
+     9
+                 8
+             7
+                 5
+         2
+ 1
+
+
+Input List = [1, 9, 2, 8, 5, 7]
+Binary Tree:
+     9
+             8
+                     7
+                 5
+         2
+ 1
+
+
+Input List = [1, 9, 2, 8, 7, 5]
+Binary Tree:
+     9
+             8
+                 7
+                     5
+         2
+ 1
+
+
+Input List = [1, 9, 5, 2, 7, 8]
+Binary Tree:
+     9
+                 8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 9, 5, 2, 8, 7]
+Binary Tree:
+     9
+             8
+                 7
+         5
+             2
+ 1
+
+
+Input List = [1, 9, 5, 7, 2, 8]
+Binary Tree:
+     9
+                 8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 9, 5, 7, 8, 2]
+Binary Tree:
+     9
+                 8
+             7
+         5
+             2
+ 1
+
+
+Input List = [1, 9, 5, 8, 2, 7]
+Binary Tree:
+     9
+             8
+                 7
+         5
+             2
+ 1
+
+
+Input List = [1, 9, 5, 8, 7, 2]
+Binary Tree:
+     9
+             8
+                 7
+         5
+             2
+ 1
+
+
+Input List = [1, 9, 7, 2, 5, 8]
+Binary Tree:
+     9
+             8
+         7
+                 5
+             2
+ 1
+
+
+Input List = [1, 9, 7, 2, 8, 5]
+Binary Tree:
+     9
+             8
+         7
+                 5
+             2
+ 1
+
+
+Input List = [1, 9, 7, 5, 2, 8]
+Binary Tree:
+     9
+             8
+         7
+             5
+                 2
+ 1
+
+
+Input List = [1, 9, 7, 5, 8, 2]
+Binary Tree:
+     9
+             8
+         7
+             5
+                 2
+ 1
+
+
+Input List = [1, 9, 7, 8, 2, 5]
+Binary Tree:
+     9
+             8
+         7
+                 5
+             2
+ 1
+
+
+Input List = [1, 9, 7, 8, 5, 2]
+Binary Tree:
+     9
+             8
+         7
+             5
+                 2
+ 1
+
+
+Input List = [1, 9, 8, 2, 5, 7]
+Binary Tree:
+     9
+         8
+                     7
+                 5
+             2
+ 1
+
+
+Input List = [1, 9, 8, 2, 7, 5]
+Binary Tree:
+     9
+         8
+                 7
+                     5
+             2
+ 1
+
+
+Input List = [1, 9, 8, 5, 2, 7]
+Binary Tree:
+     9
+         8
+                 7
+             5
+                 2
+ 1
+
+
+Input List = [1, 9, 8, 5, 7, 2]
+Binary Tree:
+     9
+         8
+                 7
+             5
+                 2
+ 1
+
+
+Input List = [1, 9, 8, 7, 2, 5]
+Binary Tree:
+     9
+         8
+             7
+                     5
+                 2
+ 1
+
+
+Input List = [1, 9, 8, 7, 5, 2]
+Binary Tree:
+     9
+         8
+             7
+                 5
+                     2
+ 1
+
+
+Input List = [2, 1, 5, 7, 8, 9]
+Binary Tree:
+                 9
+             8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 1, 5, 7, 9, 8]
+Binary Tree:
+             9
+                 8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 1, 5, 8, 7, 9]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 1, 5, 8, 9, 7]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 1, 5, 9, 7, 8]
+Binary Tree:
+         9
+                 8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 1, 5, 9, 8, 7]
+Binary Tree:
+         9
+             8
+                 7
+     5
+ 2
+     1
+
+
+Input List = [2, 1, 7, 5, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 7, 5, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 7, 8, 5, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 7, 8, 9, 5]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 7, 9, 5, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 7, 9, 8, 5]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 8, 5, 7, 9]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 8, 5, 9, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 8, 7, 5, 9]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 1, 8, 7, 9, 5]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 1, 8, 9, 5, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 8, 9, 7, 5]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 1, 9, 5, 7, 8]
+Binary Tree:
+     9
+                 8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 9, 5, 8, 7]
+Binary Tree:
+     9
+             8
+                 7
+         5
+ 2
+     1
+
+
+Input List = [2, 1, 9, 7, 5, 8]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 1, 9, 7, 8, 5]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 1, 9, 8, 5, 7]
+Binary Tree:
+     9
+         8
+                 7
+             5
+ 2
+     1
+
+
+Input List = [2, 1, 9, 8, 7, 5]
+Binary Tree:
+     9
+         8
+             7
+                 5
+ 2
+     1
+
+
+Input List = [2, 5, 1, 7, 8, 9]
+Binary Tree:
+                 9
+             8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 1, 7, 9, 8]
+Binary Tree:
+             9
+                 8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 1, 8, 7, 9]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 1, 8, 9, 7]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 1, 9, 7, 8]
+Binary Tree:
+         9
+                 8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 1, 9, 8, 7]
+Binary Tree:
+         9
+             8
+                 7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 7, 1, 8, 9]
+Binary Tree:
+                 9
+             8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 7, 1, 9, 8]
+Binary Tree:
+             9
+                 8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 7, 8, 1, 9]
+Binary Tree:
+                 9
+             8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 7, 8, 9, 1]
+Binary Tree:
+                 9
+             8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 7, 9, 1, 8]
+Binary Tree:
+             9
+                 8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 7, 9, 8, 1]
+Binary Tree:
+             9
+                 8
+         7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 8, 1, 7, 9]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 8, 1, 9, 7]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 8, 7, 1, 9]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 8, 7, 9, 1]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 8, 9, 1, 7]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 8, 9, 7, 1]
+Binary Tree:
+             9
+         8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 9, 1, 7, 8]
+Binary Tree:
+         9
+                 8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 9, 1, 8, 7]
+Binary Tree:
+         9
+             8
+                 7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 9, 7, 1, 8]
+Binary Tree:
+         9
+                 8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 9, 7, 8, 1]
+Binary Tree:
+         9
+                 8
+             7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 9, 8, 1, 7]
+Binary Tree:
+         9
+             8
+                 7
+     5
+ 2
+     1
+
+
+Input List = [2, 5, 9, 8, 7, 1]
+Binary Tree:
+         9
+             8
+                 7
+     5
+ 2
+     1
+
+
+Input List = [2, 7, 1, 5, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 1, 5, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 1, 8, 5, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 1, 8, 9, 5]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 1, 9, 5, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 1, 9, 8, 5]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 5, 1, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 5, 1, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 5, 8, 1, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 5, 8, 9, 1]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 5, 9, 1, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 5, 9, 8, 1]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 8, 1, 5, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 8, 1, 9, 5]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 8, 5, 1, 9]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 8, 5, 9, 1]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 8, 9, 1, 5]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 8, 9, 5, 1]
+Binary Tree:
+             9
+         8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 9, 1, 5, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 9, 1, 8, 5]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 9, 5, 1, 8]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 9, 5, 8, 1]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 9, 8, 1, 5]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 7, 9, 8, 5, 1]
+Binary Tree:
+         9
+             8
+     7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 1, 5, 7, 9]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 1, 5, 9, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 1, 7, 5, 9]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 1, 7, 9, 5]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 1, 9, 5, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 1, 9, 7, 5]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 5, 1, 7, 9]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 5, 1, 9, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 5, 7, 1, 9]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 5, 7, 9, 1]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 5, 9, 1, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 5, 9, 7, 1]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 7, 1, 5, 9]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 7, 1, 9, 5]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 7, 5, 1, 9]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 7, 5, 9, 1]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 7, 9, 1, 5]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 7, 9, 5, 1]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 9, 1, 5, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 9, 1, 7, 5]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 9, 5, 1, 7]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 9, 5, 7, 1]
+Binary Tree:
+         9
+     8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 8, 9, 7, 1, 5]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 8, 9, 7, 5, 1]
+Binary Tree:
+         9
+     8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 1, 5, 7, 8]
+Binary Tree:
+     9
+                 8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 9, 1, 5, 8, 7]
+Binary Tree:
+     9
+             8
+                 7
+         5
+ 2
+     1
+
+
+Input List = [2, 9, 1, 7, 5, 8]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 1, 7, 8, 5]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 1, 8, 5, 7]
+Binary Tree:
+     9
+         8
+                 7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 1, 8, 7, 5]
+Binary Tree:
+     9
+         8
+             7
+                 5
+ 2
+     1
+
+
+Input List = [2, 9, 5, 1, 7, 8]
+Binary Tree:
+     9
+                 8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 9, 5, 1, 8, 7]
+Binary Tree:
+     9
+             8
+                 7
+         5
+ 2
+     1
+
+
+Input List = [2, 9, 5, 7, 1, 8]
+Binary Tree:
+     9
+                 8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 9, 5, 7, 8, 1]
+Binary Tree:
+     9
+                 8
+             7
+         5
+ 2
+     1
+
+
+Input List = [2, 9, 5, 8, 1, 7]
+Binary Tree:
+     9
+             8
+                 7
+         5
+ 2
+     1
+
+
+Input List = [2, 9, 5, 8, 7, 1]
+Binary Tree:
+     9
+             8
+                 7
+         5
+ 2
+     1
+
+
+Input List = [2, 9, 7, 1, 5, 8]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 7, 1, 8, 5]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 7, 5, 1, 8]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 7, 5, 8, 1]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 7, 8, 1, 5]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 7, 8, 5, 1]
+Binary Tree:
+     9
+             8
+         7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 8, 1, 5, 7]
+Binary Tree:
+     9
+         8
+                 7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 8, 1, 7, 5]
+Binary Tree:
+     9
+         8
+             7
+                 5
+ 2
+     1
+
+
+Input List = [2, 9, 8, 5, 1, 7]
+Binary Tree:
+     9
+         8
+                 7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 8, 5, 7, 1]
+Binary Tree:
+     9
+         8
+                 7
+             5
+ 2
+     1
+
+
+Input List = [2, 9, 8, 7, 1, 5]
+Binary Tree:
+     9
+         8
+             7
+                 5
+ 2
+     1
+
+
+Input List = [2, 9, 8, 7, 5, 1]
+Binary Tree:
+     9
+         8
+             7
+                 5
+ 2
+     1
+
+
+Input List = [5, 1, 2, 7, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 2, 7, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 2, 8, 7, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 2, 8, 9, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 2, 9, 7, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 2, 9, 8, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 7, 2, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 7, 2, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 7, 8, 2, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 7, 8, 9, 2]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 7, 9, 2, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 7, 9, 8, 2]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 8, 2, 7, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 8, 2, 9, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 8, 7, 2, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 8, 7, 9, 2]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 8, 9, 2, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 8, 9, 7, 2]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 9, 2, 7, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 9, 2, 8, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 9, 7, 2, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 9, 7, 8, 2]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 9, 8, 2, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 1, 9, 8, 7, 2]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 2, 1, 7, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 1, 7, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 1, 8, 7, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 1, 8, 9, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 1, 9, 7, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 1, 9, 8, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 7, 1, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 7, 1, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 7, 8, 1, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 7, 8, 9, 1]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 7, 9, 1, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 7, 9, 8, 1]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 8, 1, 7, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 8, 1, 9, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 8, 7, 1, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 8, 7, 9, 1]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 8, 9, 1, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 8, 9, 7, 1]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 9, 1, 7, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 9, 1, 8, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 9, 7, 1, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 9, 7, 8, 1]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 9, 8, 1, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 2, 9, 8, 7, 1]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 1, 2, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 1, 2, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 1, 8, 2, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 1, 8, 9, 2]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 1, 9, 2, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 1, 9, 8, 2]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 2, 1, 8, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 2, 1, 9, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 2, 8, 1, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 2, 8, 9, 1]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 2, 9, 1, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 2, 9, 8, 1]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 8, 1, 2, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 8, 1, 9, 2]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 8, 2, 1, 9]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 8, 2, 9, 1]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 8, 9, 1, 2]
+Binary Tree:
+             9
+         8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 8, 9, 2, 1]
+Binary Tree:
+             9
+         8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 9, 1, 2, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 9, 1, 8, 2]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 9, 2, 1, 8]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 9, 2, 8, 1]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 7, 9, 8, 1, 2]
+Binary Tree:
+         9
+             8
+     7
+ 5
+         2
+     1
+
+
+Input List = [5, 7, 9, 8, 2, 1]
+Binary Tree:
+         9
+             8
+     7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 1, 2, 7, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 1, 2, 9, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 1, 7, 2, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 1, 7, 9, 2]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 1, 9, 2, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 1, 9, 7, 2]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 2, 1, 7, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 2, 1, 9, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 2, 7, 1, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 2, 7, 9, 1]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 2, 9, 1, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 2, 9, 7, 1]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 7, 1, 2, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 7, 1, 9, 2]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 7, 2, 1, 9]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 7, 2, 9, 1]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 7, 9, 1, 2]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 7, 9, 2, 1]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 9, 1, 2, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 9, 1, 7, 2]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 9, 2, 1, 7]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 9, 2, 7, 1]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 8, 9, 7, 1, 2]
+Binary Tree:
+         9
+     8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 8, 9, 7, 2, 1]
+Binary Tree:
+         9
+     8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 1, 2, 7, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 1, 2, 8, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 1, 7, 2, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 1, 7, 8, 2]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 1, 8, 2, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 1, 8, 7, 2]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 2, 1, 7, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 2, 1, 8, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 2, 7, 1, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 2, 7, 8, 1]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 2, 8, 1, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 2, 8, 7, 1]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 7, 1, 2, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 7, 1, 8, 2]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 7, 2, 1, 8]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 7, 2, 8, 1]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 7, 8, 1, 2]
+Binary Tree:
+     9
+             8
+         7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 7, 8, 2, 1]
+Binary Tree:
+     9
+             8
+         7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 8, 1, 2, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 8, 1, 7, 2]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 8, 2, 1, 7]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 8, 2, 7, 1]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [5, 9, 8, 7, 1, 2]
+Binary Tree:
+     9
+         8
+             7
+ 5
+         2
+     1
+
+
+Input List = [5, 9, 8, 7, 2, 1]
+Binary Tree:
+     9
+         8
+             7
+ 5
+     2
+         1
+
+
+Input List = [7, 1, 2, 5, 8, 9]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 2, 5, 9, 8]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 2, 8, 5, 9]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 2, 8, 9, 5]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 2, 9, 5, 8]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 2, 9, 8, 5]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 5, 2, 8, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 5, 2, 9, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 5, 8, 2, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 5, 8, 9, 2]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 5, 9, 2, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 5, 9, 8, 2]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 8, 2, 5, 9]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 8, 2, 9, 5]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 8, 5, 2, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 8, 5, 9, 2]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 8, 9, 2, 5]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 8, 9, 5, 2]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 9, 2, 5, 8]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 9, 2, 8, 5]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 9, 5, 2, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 9, 5, 8, 2]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 1, 9, 8, 2, 5]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 1, 9, 8, 5, 2]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 2, 1, 5, 8, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 1, 5, 9, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 1, 8, 5, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 1, 8, 9, 5]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 1, 9, 5, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 1, 9, 8, 5]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 5, 1, 8, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 5, 1, 9, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 5, 8, 1, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 5, 8, 9, 1]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 5, 9, 1, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 5, 9, 8, 1]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 8, 1, 5, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 8, 1, 9, 5]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 8, 5, 1, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 8, 5, 9, 1]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 8, 9, 1, 5]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 8, 9, 5, 1]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 9, 1, 5, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 9, 1, 8, 5]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 9, 5, 1, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 9, 5, 8, 1]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 9, 8, 1, 5]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 2, 9, 8, 5, 1]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 5, 1, 2, 8, 9]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 1, 2, 9, 8]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 1, 8, 2, 9]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 1, 8, 9, 2]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 1, 9, 2, 8]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 1, 9, 8, 2]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 2, 1, 8, 9]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 2, 1, 9, 8]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 2, 8, 1, 9]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 2, 8, 9, 1]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 2, 9, 1, 8]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 2, 9, 8, 1]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 8, 1, 2, 9]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 8, 1, 9, 2]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 8, 2, 1, 9]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 8, 2, 9, 1]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 8, 9, 1, 2]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 8, 9, 2, 1]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 9, 1, 2, 8]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 9, 1, 8, 2]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 9, 2, 1, 8]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 9, 2, 8, 1]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 5, 9, 8, 1, 2]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 5, 9, 8, 2, 1]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 8, 1, 2, 5, 9]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 8, 1, 2, 9, 5]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 8, 1, 5, 2, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 8, 1, 5, 9, 2]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 8, 1, 9, 2, 5]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 8, 1, 9, 5, 2]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 8, 2, 1, 5, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 8, 2, 1, 9, 5]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 8, 2, 5, 1, 9]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 8, 2, 5, 9, 1]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 8, 2, 9, 1, 5]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 8, 2, 9, 5, 1]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 8, 5, 1, 2, 9]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 8, 5, 1, 9, 2]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 8, 5, 2, 1, 9]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 8, 5, 2, 9, 1]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 8, 5, 9, 1, 2]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 8, 5, 9, 2, 1]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 8, 9, 1, 2, 5]
+Binary Tree:
+         9
+     8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 8, 9, 1, 5, 2]
+Binary Tree:
+         9
+     8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 8, 9, 2, 1, 5]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 8, 9, 2, 5, 1]
+Binary Tree:
+         9
+     8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 8, 9, 5, 1, 2]
+Binary Tree:
+         9
+     8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 8, 9, 5, 2, 1]
+Binary Tree:
+         9
+     8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 9, 1, 2, 5, 8]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 9, 1, 2, 8, 5]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 9, 1, 5, 2, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 9, 1, 5, 8, 2]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 9, 1, 8, 2, 5]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 9, 1, 8, 5, 2]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 9, 2, 1, 5, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 9, 2, 1, 8, 5]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 9, 2, 5, 1, 8]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 9, 2, 5, 8, 1]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 9, 2, 8, 1, 5]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 9, 2, 8, 5, 1]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 9, 5, 1, 2, 8]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 9, 5, 1, 8, 2]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 9, 5, 2, 1, 8]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 9, 5, 2, 8, 1]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 9, 5, 8, 1, 2]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 9, 5, 8, 2, 1]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [7, 9, 8, 1, 2, 5]
+Binary Tree:
+     9
+         8
+ 7
+             5
+         2
+     1
+
+
+Input List = [7, 9, 8, 1, 5, 2]
+Binary Tree:
+     9
+         8
+ 7
+         5
+             2
+     1
+
+
+Input List = [7, 9, 8, 2, 1, 5]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 9, 8, 2, 5, 1]
+Binary Tree:
+     9
+         8
+ 7
+         5
+     2
+         1
+
+
+Input List = [7, 9, 8, 5, 1, 2]
+Binary Tree:
+     9
+         8
+ 7
+     5
+             2
+         1
+
+
+Input List = [7, 9, 8, 5, 2, 1]
+Binary Tree:
+     9
+         8
+ 7
+     5
+         2
+             1
+
+
+Input List = [8, 1, 2, 5, 7, 9]
+Binary Tree:
+     9
+ 8
+                 7
+             5
+         2
+     1
+
+
+Input List = [8, 1, 2, 5, 9, 7]
+Binary Tree:
+     9
+ 8
+                 7
+             5
+         2
+     1
+
+
+Input List = [8, 1, 2, 7, 5, 9]
+Binary Tree:
+     9
+ 8
+             7
+                 5
+         2
+     1
+
+
+Input List = [8, 1, 2, 7, 9, 5]
+Binary Tree:
+     9
+ 8
+             7
+                 5
+         2
+     1
+
+
+Input List = [8, 1, 2, 9, 5, 7]
+Binary Tree:
+     9
+ 8
+                 7
+             5
+         2
+     1
+
+
+Input List = [8, 1, 2, 9, 7, 5]
+Binary Tree:
+     9
+ 8
+             7
+                 5
+         2
+     1
+
+
+Input List = [8, 1, 5, 2, 7, 9]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 1, 5, 2, 9, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 1, 5, 7, 2, 9]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 1, 5, 7, 9, 2]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 1, 5, 9, 2, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 1, 5, 9, 7, 2]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 1, 7, 2, 5, 9]
+Binary Tree:
+     9
+ 8
+         7
+                 5
+             2
+     1
+
+
+Input List = [8, 1, 7, 2, 9, 5]
+Binary Tree:
+     9
+ 8
+         7
+                 5
+             2
+     1
+
+
+Input List = [8, 1, 7, 5, 2, 9]
+Binary Tree:
+     9
+ 8
+         7
+             5
+                 2
+     1
+
+
+Input List = [8, 1, 7, 5, 9, 2]
+Binary Tree:
+     9
+ 8
+         7
+             5
+                 2
+     1
+
+
+Input List = [8, 1, 7, 9, 2, 5]
+Binary Tree:
+     9
+ 8
+         7
+                 5
+             2
+     1
+
+
+Input List = [8, 1, 7, 9, 5, 2]
+Binary Tree:
+     9
+ 8
+         7
+             5
+                 2
+     1
+
+
+Input List = [8, 1, 9, 2, 5, 7]
+Binary Tree:
+     9
+ 8
+                 7
+             5
+         2
+     1
+
+
+Input List = [8, 1, 9, 2, 7, 5]
+Binary Tree:
+     9
+ 8
+             7
+                 5
+         2
+     1
+
+
+Input List = [8, 1, 9, 5, 2, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 1, 9, 5, 7, 2]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 1, 9, 7, 2, 5]
+Binary Tree:
+     9
+ 8
+         7
+                 5
+             2
+     1
+
+
+Input List = [8, 1, 9, 7, 5, 2]
+Binary Tree:
+     9
+ 8
+         7
+             5
+                 2
+     1
+
+
+Input List = [8, 2, 1, 5, 7, 9]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 1, 5, 9, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 1, 7, 5, 9]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 1, 7, 9, 5]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 1, 9, 5, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 1, 9, 7, 5]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 5, 1, 7, 9]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 5, 1, 9, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 5, 7, 1, 9]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 5, 7, 9, 1]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 5, 9, 1, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 5, 9, 7, 1]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 7, 1, 5, 9]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 7, 1, 9, 5]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 7, 5, 1, 9]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 7, 5, 9, 1]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 7, 9, 1, 5]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 7, 9, 5, 1]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 9, 1, 5, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 9, 1, 7, 5]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 9, 5, 1, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 9, 5, 7, 1]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 2, 9, 7, 1, 5]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 2, 9, 7, 5, 1]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 5, 1, 2, 7, 9]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 1, 2, 9, 7]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 1, 7, 2, 9]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 1, 7, 9, 2]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 1, 9, 2, 7]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 1, 9, 7, 2]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 2, 1, 7, 9]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 2, 1, 9, 7]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 2, 7, 1, 9]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 2, 7, 9, 1]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 2, 9, 1, 7]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 2, 9, 7, 1]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 7, 1, 2, 9]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 7, 1, 9, 2]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 7, 2, 1, 9]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 7, 2, 9, 1]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 7, 9, 1, 2]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 7, 9, 2, 1]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 9, 1, 2, 7]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 9, 1, 7, 2]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 9, 2, 1, 7]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 9, 2, 7, 1]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 5, 9, 7, 1, 2]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 5, 9, 7, 2, 1]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 7, 1, 2, 5, 9]
+Binary Tree:
+     9
+ 8
+     7
+                 5
+             2
+         1
+
+
+Input List = [8, 7, 1, 2, 9, 5]
+Binary Tree:
+     9
+ 8
+     7
+                 5
+             2
+         1
+
+
+Input List = [8, 7, 1, 5, 2, 9]
+Binary Tree:
+     9
+ 8
+     7
+             5
+                 2
+         1
+
+
+Input List = [8, 7, 1, 5, 9, 2]
+Binary Tree:
+     9
+ 8
+     7
+             5
+                 2
+         1
+
+
+Input List = [8, 7, 1, 9, 2, 5]
+Binary Tree:
+     9
+ 8
+     7
+                 5
+             2
+         1
+
+
+Input List = [8, 7, 1, 9, 5, 2]
+Binary Tree:
+     9
+ 8
+     7
+             5
+                 2
+         1
+
+
+Input List = [8, 7, 2, 1, 5, 9]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 7, 2, 1, 9, 5]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 7, 2, 5, 1, 9]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 7, 2, 5, 9, 1]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 7, 2, 9, 1, 5]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 7, 2, 9, 5, 1]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 7, 5, 1, 2, 9]
+Binary Tree:
+     9
+ 8
+     7
+         5
+                 2
+             1
+
+
+Input List = [8, 7, 5, 1, 9, 2]
+Binary Tree:
+     9
+ 8
+     7
+         5
+                 2
+             1
+
+
+Input List = [8, 7, 5, 2, 1, 9]
+Binary Tree:
+     9
+ 8
+     7
+         5
+             2
+                 1
+
+
+Input List = [8, 7, 5, 2, 9, 1]
+Binary Tree:
+     9
+ 8
+     7
+         5
+             2
+                 1
+
+
+Input List = [8, 7, 5, 9, 1, 2]
+Binary Tree:
+     9
+ 8
+     7
+         5
+                 2
+             1
+
+
+Input List = [8, 7, 5, 9, 2, 1]
+Binary Tree:
+     9
+ 8
+     7
+         5
+             2
+                 1
+
+
+Input List = [8, 7, 9, 1, 2, 5]
+Binary Tree:
+     9
+ 8
+     7
+                 5
+             2
+         1
+
+
+Input List = [8, 7, 9, 1, 5, 2]
+Binary Tree:
+     9
+ 8
+     7
+             5
+                 2
+         1
+
+
+Input List = [8, 7, 9, 2, 1, 5]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 7, 9, 2, 5, 1]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 7, 9, 5, 1, 2]
+Binary Tree:
+     9
+ 8
+     7
+         5
+                 2
+             1
+
+
+Input List = [8, 7, 9, 5, 2, 1]
+Binary Tree:
+     9
+ 8
+     7
+         5
+             2
+                 1
+
+
+Input List = [8, 9, 1, 2, 5, 7]
+Binary Tree:
+     9
+ 8
+                 7
+             5
+         2
+     1
+
+
+Input List = [8, 9, 1, 2, 7, 5]
+Binary Tree:
+     9
+ 8
+             7
+                 5
+         2
+     1
+
+
+Input List = [8, 9, 1, 5, 2, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 9, 1, 5, 7, 2]
+Binary Tree:
+     9
+ 8
+             7
+         5
+             2
+     1
+
+
+Input List = [8, 9, 1, 7, 2, 5]
+Binary Tree:
+     9
+ 8
+         7
+                 5
+             2
+     1
+
+
+Input List = [8, 9, 1, 7, 5, 2]
+Binary Tree:
+     9
+ 8
+         7
+             5
+                 2
+     1
+
+
+Input List = [8, 9, 2, 1, 5, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 9, 2, 1, 7, 5]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 9, 2, 5, 1, 7]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 9, 2, 5, 7, 1]
+Binary Tree:
+     9
+ 8
+             7
+         5
+     2
+         1
+
+
+Input List = [8, 9, 2, 7, 1, 5]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 9, 2, 7, 5, 1]
+Binary Tree:
+     9
+ 8
+         7
+             5
+     2
+         1
+
+
+Input List = [8, 9, 5, 1, 2, 7]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 9, 5, 1, 7, 2]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 9, 5, 2, 1, 7]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 9, 5, 2, 7, 1]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 9, 5, 7, 1, 2]
+Binary Tree:
+     9
+ 8
+         7
+     5
+             2
+         1
+
+
+Input List = [8, 9, 5, 7, 2, 1]
+Binary Tree:
+     9
+ 8
+         7
+     5
+         2
+             1
+
+
+Input List = [8, 9, 7, 1, 2, 5]
+Binary Tree:
+     9
+ 8
+     7
+                 5
+             2
+         1
+
+
+Input List = [8, 9, 7, 1, 5, 2]
+Binary Tree:
+     9
+ 8
+     7
+             5
+                 2
+         1
+
+
+Input List = [8, 9, 7, 2, 1, 5]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 9, 7, 2, 5, 1]
+Binary Tree:
+     9
+ 8
+     7
+             5
+         2
+             1
+
+
+Input List = [8, 9, 7, 5, 1, 2]
+Binary Tree:
+     9
+ 8
+     7
+         5
+                 2
+             1
+
+
+Input List = [8, 9, 7, 5, 2, 1]
+Binary Tree:
+     9
+ 8
+     7
+         5
+             2
+                 1
+
+
+Input List = [9, 1, 2, 5, 7, 8]
+Binary Tree:
+ 9
+                     8
+                 7
+             5
+         2
+     1
+
+
+Input List = [9, 1, 2, 5, 8, 7]
+Binary Tree:
+ 9
+                 8
+                     7
+             5
+         2
+     1
+
+
+Input List = [9, 1, 2, 7, 5, 8]
+Binary Tree:
+ 9
+                 8
+             7
+                 5
+         2
+     1
+
+
+Input List = [9, 1, 2, 7, 8, 5]
+Binary Tree:
+ 9
+                 8
+             7
+                 5
+         2
+     1
+
+
+Input List = [9, 1, 2, 8, 5, 7]
+Binary Tree:
+ 9
+             8
+                     7
+                 5
+         2
+     1
+
+
+Input List = [9, 1, 2, 8, 7, 5]
+Binary Tree:
+ 9
+             8
+                 7
+                     5
+         2
+     1
+
+
+Input List = [9, 1, 5, 2, 7, 8]
+Binary Tree:
+ 9
+                 8
+             7
+         5
+             2
+     1
+
+
+Input List = [9, 1, 5, 2, 8, 7]
+Binary Tree:
+ 9
+             8
+                 7
+         5
+             2
+     1
+
+
+Input List = [9, 1, 5, 7, 2, 8]
+Binary Tree:
+ 9
+                 8
+             7
+         5
+             2
+     1
+
+
+Input List = [9, 1, 5, 7, 8, 2]
+Binary Tree:
+ 9
+                 8
+             7
+         5
+             2
+     1
+
+
+Input List = [9, 1, 5, 8, 2, 7]
+Binary Tree:
+ 9
+             8
+                 7
+         5
+             2
+     1
+
+
+Input List = [9, 1, 5, 8, 7, 2]
+Binary Tree:
+ 9
+             8
+                 7
+         5
+             2
+     1
+
+
+Input List = [9, 1, 7, 2, 5, 8]
+Binary Tree:
+ 9
+             8
+         7
+                 5
+             2
+     1
+
+
+Input List = [9, 1, 7, 2, 8, 5]
+Binary Tree:
+ 9
+             8
+         7
+                 5
+             2
+     1
+
+
+Input List = [9, 1, 7, 5, 2, 8]
+Binary Tree:
+ 9
+             8
+         7
+             5
+                 2
+     1
+
+
+Input List = [9, 1, 7, 5, 8, 2]
+Binary Tree:
+ 9
+             8
+         7
+             5
+                 2
+     1
+
+
+Input List = [9, 1, 7, 8, 2, 5]
+Binary Tree:
+ 9
+             8
+         7
+                 5
+             2
+     1
+
+
+Input List = [9, 1, 7, 8, 5, 2]
+Binary Tree:
+ 9
+             8
+         7
+             5
+                 2
+     1
+
+
+Input List = [9, 1, 8, 2, 5, 7]
+Binary Tree:
+ 9
+         8
+                     7
+                 5
+             2
+     1
+
+
+Input List = [9, 1, 8, 2, 7, 5]
+Binary Tree:
+ 9
+         8
+                 7
+                     5
+             2
+     1
+
+
+Input List = [9, 1, 8, 5, 2, 7]
+Binary Tree:
+ 9
+         8
+                 7
+             5
+                 2
+     1
+
+
+Input List = [9, 1, 8, 5, 7, 2]
+Binary Tree:
+ 9
+         8
+                 7
+             5
+                 2
+     1
+
+
+Input List = [9, 1, 8, 7, 2, 5]
+Binary Tree:
+ 9
+         8
+             7
+                     5
+                 2
+     1
+
+
+Input List = [9, 1, 8, 7, 5, 2]
+Binary Tree:
+ 9
+         8
+             7
+                 5
+                     2
+     1
+
+
+Input List = [9, 2, 1, 5, 7, 8]
+Binary Tree:
+ 9
+                 8
+             7
+         5
+     2
+         1
+
+
+Input List = [9, 2, 1, 5, 8, 7]
+Binary Tree:
+ 9
+             8
+                 7
+         5
+     2
+         1
+
+
+Input List = [9, 2, 1, 7, 5, 8]
+Binary Tree:
+ 9
+             8
+         7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 1, 7, 8, 5]
+Binary Tree:
+ 9
+             8
+         7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 1, 8, 5, 7]
+Binary Tree:
+ 9
+         8
+                 7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 1, 8, 7, 5]
+Binary Tree:
+ 9
+         8
+             7
+                 5
+     2
+         1
+
+
+Input List = [9, 2, 5, 1, 7, 8]
+Binary Tree:
+ 9
+                 8
+             7
+         5
+     2
+         1
+
+
+Input List = [9, 2, 5, 1, 8, 7]
+Binary Tree:
+ 9
+             8
+                 7
+         5
+     2
+         1
+
+
+Input List = [9, 2, 5, 7, 1, 8]
+Binary Tree:
+ 9
+                 8
+             7
+         5
+     2
+         1
+
+
+Input List = [9, 2, 5, 7, 8, 1]
+Binary Tree:
+ 9
+                 8
+             7
+         5
+     2
+         1
+
+
+Input List = [9, 2, 5, 8, 1, 7]
+Binary Tree:
+ 9
+             8
+                 7
+         5
+     2
+         1
+
+
+Input List = [9, 2, 5, 8, 7, 1]
+Binary Tree:
+ 9
+             8
+                 7
+         5
+     2
+         1
+
+
+Input List = [9, 2, 7, 1, 5, 8]
+Binary Tree:
+ 9
+             8
+         7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 7, 1, 8, 5]
+Binary Tree:
+ 9
+             8
+         7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 7, 5, 1, 8]
+Binary Tree:
+ 9
+             8
+         7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 7, 5, 8, 1]
+Binary Tree:
+ 9
+             8
+         7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 7, 8, 1, 5]
+Binary Tree:
+ 9
+             8
+         7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 7, 8, 5, 1]
+Binary Tree:
+ 9
+             8
+         7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 8, 1, 5, 7]
+Binary Tree:
+ 9
+         8
+                 7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 8, 1, 7, 5]
+Binary Tree:
+ 9
+         8
+             7
+                 5
+     2
+         1
+
+
+Input List = [9, 2, 8, 5, 1, 7]
+Binary Tree:
+ 9
+         8
+                 7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 8, 5, 7, 1]
+Binary Tree:
+ 9
+         8
+                 7
+             5
+     2
+         1
+
+
+Input List = [9, 2, 8, 7, 1, 5]
+Binary Tree:
+ 9
+         8
+             7
+                 5
+     2
+         1
+
+
+Input List = [9, 2, 8, 7, 5, 1]
+Binary Tree:
+ 9
+         8
+             7
+                 5
+     2
+         1
+
+
+Input List = [9, 5, 1, 2, 7, 8]
+Binary Tree:
+ 9
+             8
+         7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 1, 2, 8, 7]
+Binary Tree:
+ 9
+         8
+             7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 1, 7, 2, 8]
+Binary Tree:
+ 9
+             8
+         7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 1, 7, 8, 2]
+Binary Tree:
+ 9
+             8
+         7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 1, 8, 2, 7]
+Binary Tree:
+ 9
+         8
+             7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 1, 8, 7, 2]
+Binary Tree:
+ 9
+         8
+             7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 2, 1, 7, 8]
+Binary Tree:
+ 9
+             8
+         7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 2, 1, 8, 7]
+Binary Tree:
+ 9
+         8
+             7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 2, 7, 1, 8]
+Binary Tree:
+ 9
+             8
+         7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 2, 7, 8, 1]
+Binary Tree:
+ 9
+             8
+         7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 2, 8, 1, 7]
+Binary Tree:
+ 9
+         8
+             7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 2, 8, 7, 1]
+Binary Tree:
+ 9
+         8
+             7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 7, 1, 2, 8]
+Binary Tree:
+ 9
+             8
+         7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 7, 1, 8, 2]
+Binary Tree:
+ 9
+             8
+         7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 7, 2, 1, 8]
+Binary Tree:
+ 9
+             8
+         7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 7, 2, 8, 1]
+Binary Tree:
+ 9
+             8
+         7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 7, 8, 1, 2]
+Binary Tree:
+ 9
+             8
+         7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 7, 8, 2, 1]
+Binary Tree:
+ 9
+             8
+         7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 8, 1, 2, 7]
+Binary Tree:
+ 9
+         8
+             7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 8, 1, 7, 2]
+Binary Tree:
+ 9
+         8
+             7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 8, 2, 1, 7]
+Binary Tree:
+ 9
+         8
+             7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 8, 2, 7, 1]
+Binary Tree:
+ 9
+         8
+             7
+     5
+         2
+             1
+
+
+Input List = [9, 5, 8, 7, 1, 2]
+Binary Tree:
+ 9
+         8
+             7
+     5
+             2
+         1
+
+
+Input List = [9, 5, 8, 7, 2, 1]
+Binary Tree:
+ 9
+         8
+             7
+     5
+         2
+             1
+
+
+Input List = [9, 7, 1, 2, 5, 8]
+Binary Tree:
+ 9
+         8
+     7
+                 5
+             2
+         1
+
+
+Input List = [9, 7, 1, 2, 8, 5]
+Binary Tree:
+ 9
+         8
+     7
+                 5
+             2
+         1
+
+
+Input List = [9, 7, 1, 5, 2, 8]
+Binary Tree:
+ 9
+         8
+     7
+             5
+                 2
+         1
+
+
+Input List = [9, 7, 1, 5, 8, 2]
+Binary Tree:
+ 9
+         8
+     7
+             5
+                 2
+         1
+
+
+Input List = [9, 7, 1, 8, 2, 5]
+Binary Tree:
+ 9
+         8
+     7
+                 5
+             2
+         1
+
+
+Input List = [9, 7, 1, 8, 5, 2]
+Binary Tree:
+ 9
+         8
+     7
+             5
+                 2
+         1
+
+
+Input List = [9, 7, 2, 1, 5, 8]
+Binary Tree:
+ 9
+         8
+     7
+             5
+         2
+             1
+
+
+Input List = [9, 7, 2, 1, 8, 5]
+Binary Tree:
+ 9
+         8
+     7
+             5
+         2
+             1
+
+
+Input List = [9, 7, 2, 5, 1, 8]
+Binary Tree:
+ 9
+         8
+     7
+             5
+         2
+             1
+
+
+Input List = [9, 7, 2, 5, 8, 1]
+Binary Tree:
+ 9
+         8
+     7
+             5
+         2
+             1
+
+
+Input List = [9, 7, 2, 8, 1, 5]
+Binary Tree:
+ 9
+         8
+     7
+             5
+         2
+             1
+
+
+Input List = [9, 7, 2, 8, 5, 1]
+Binary Tree:
+ 9
+         8
+     7
+             5
+         2
+             1
+
+
+Input List = [9, 7, 5, 1, 2, 8]
+Binary Tree:
+ 9
+         8
+     7
+         5
+                 2
+             1
+
+
+Input List = [9, 7, 5, 1, 8, 2]
+Binary Tree:
+ 9
+         8
+     7
+         5
+                 2
+             1
+
+
+Input List = [9, 7, 5, 2, 1, 8]
+Binary Tree:
+ 9
+         8
+     7
+         5
+             2
+                 1
+
+
+Input List = [9, 7, 5, 2, 8, 1]
+Binary Tree:
+ 9
+         8
+     7
+         5
+             2
+                 1
+
+
+Input List = [9, 7, 5, 8, 1, 2]
+Binary Tree:
+ 9
+         8
+     7
+         5
+                 2
+             1
+
+
+Input List = [9, 7, 5, 8, 2, 1]
+Binary Tree:
+ 9
+         8
+     7
+         5
+             2
+                 1
+
+
+Input List = [9, 7, 8, 1, 2, 5]
+Binary Tree:
+ 9
+         8
+     7
+                 5
+             2
+         1
+
+
+Input List = [9, 7, 8, 1, 5, 2]
+Binary Tree:
+ 9
+         8
+     7
+             5
+                 2
+         1
+
+
+Input List = [9, 7, 8, 2, 1, 5]
+Binary Tree:
+ 9
+         8
+     7
+             5
+         2
+             1
+
+
+Input List = [9, 7, 8, 2, 5, 1]
+Binary Tree:
+ 9
+         8
+     7
+             5
+         2
+             1
+
+
+Input List = [9, 7, 8, 5, 1, 2]
+Binary Tree:
+ 9
+         8
+     7
+         5
+                 2
+             1
+
+
+Input List = [9, 7, 8, 5, 2, 1]
+Binary Tree:
+ 9
+         8
+     7
+         5
+             2
+                 1
+
+
+Input List = [9, 8, 1, 2, 5, 7]
+Binary Tree:
+ 9
+     8
+                     7
+                 5
+             2
+         1
+
+
+Input List = [9, 8, 1, 2, 7, 5]
+Binary Tree:
+ 9
+     8
+                 7
+                     5
+             2
+         1
+
+
+Input List = [9, 8, 1, 5, 2, 7]
+Binary Tree:
+ 9
+     8
+                 7
+             5
+                 2
+         1
+
+
+Input List = [9, 8, 1, 5, 7, 2]
+Binary Tree:
+ 9
+     8
+                 7
+             5
+                 2
+         1
+
+
+Input List = [9, 8, 1, 7, 2, 5]
+Binary Tree:
+ 9
+     8
+             7
+                     5
+                 2
+         1
+
+
+Input List = [9, 8, 1, 7, 5, 2]
+Binary Tree:
+ 9
+     8
+             7
+                 5
+                     2
+         1
+
+
+Input List = [9, 8, 2, 1, 5, 7]
+Binary Tree:
+ 9
+     8
+                 7
+             5
+         2
+             1
+
+
+Input List = [9, 8, 2, 1, 7, 5]
+Binary Tree:
+ 9
+     8
+             7
+                 5
+         2
+             1
+
+
+Input List = [9, 8, 2, 5, 1, 7]
+Binary Tree:
+ 9
+     8
+                 7
+             5
+         2
+             1
+
+
+Input List = [9, 8, 2, 5, 7, 1]
+Binary Tree:
+ 9
+     8
+                 7
+             5
+         2
+             1
+
+
+Input List = [9, 8, 2, 7, 1, 5]
+Binary Tree:
+ 9
+     8
+             7
+                 5
+         2
+             1
+
+
+Input List = [9, 8, 2, 7, 5, 1]
+Binary Tree:
+ 9
+     8
+             7
+                 5
+         2
+             1
+
+
+Input List = [9, 8, 5, 1, 2, 7]
+Binary Tree:
+ 9
+     8
+             7
+         5
+                 2
+             1
+
+
+Input List = [9, 8, 5, 1, 7, 2]
+Binary Tree:
+ 9
+     8
+             7
+         5
+                 2
+             1
+
+
+Input List = [9, 8, 5, 2, 1, 7]
+Binary Tree:
+ 9
+     8
+             7
+         5
+             2
+                 1
+
+
+Input List = [9, 8, 5, 2, 7, 1]
+Binary Tree:
+ 9
+     8
+             7
+         5
+             2
+                 1
+
+
+Input List = [9, 8, 5, 7, 1, 2]
+Binary Tree:
+ 9
+     8
+             7
+         5
+                 2
+             1
+
+
+Input List = [9, 8, 5, 7, 2, 1]
+Binary Tree:
+ 9
+     8
+             7
+         5
+             2
+                 1
+
+
+Input List = [9, 8, 7, 1, 2, 5]
+Binary Tree:
+ 9
+     8
+         7
+                     5
+                 2
+             1
+
+
+Input List = [9, 8, 7, 1, 5, 2]
+Binary Tree:
+ 9
+     8
+         7
+                 5
+                     2
+             1
+
+
+Input List = [9, 8, 7, 2, 1, 5]
+Binary Tree:
+ 9
+     8
+         7
+                 5
+             2
+                 1
+
+
+Input List = [9, 8, 7, 2, 5, 1]
+Binary Tree:
+ 9
+     8
+         7
+                 5
+             2
+                 1
+
+
+Input List = [9, 8, 7, 5, 1, 2]
+Binary Tree:
+ 9
+     8
+         7
+             5
+                     2
+                 1
+
+
+Input List = [9, 8, 7, 5, 2, 1]
+Binary Tree:
+ 9
+     8
+         7
+             5
+                 2
+                     1
+
+
+Total Number: 720
